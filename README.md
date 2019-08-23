@@ -1,5 +1,6 @@
 # hello-world
 Getting accustomed to github.
+
 My introduction to programming started as an electrical engineering student at the University of Memphis. I learned Fortran, MatLab, C, C++, and HTML. While attending, I worked as a Helpdesk Technician at the University, and later I worked as a Helpdesk Tech for Stream International. Stream was an outsourced helpdesk company for different computer brands such as Dell, and the now extinct Gateway computers. 
 
 I was offered a higher paying job as a electrical substation operator, and I put my education on hold. I earned an Associate degree in engineering from Southwest Tennessee Community College in Memphis, TN since I needed only 4 classes to get it, and 2 of them were online courses. I just wanted some sort of degree to account for my time in school. I continued programming more as a hobby. I learned CSS, and Javascript on my own. I moved up in the electric utility industry. I'm currently working as a Transmission Systems Operator, with a Reliability Coordinator certification(the highest authority on the Bulk Electric System of North America), and I finished a Bachelor degree in Economics. 
